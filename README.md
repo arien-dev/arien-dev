@@ -16,7 +16,7 @@
   <hr />
   <br />
 
-    <p>
+   <p>
     <sub><code>CONTRIBUTING TO</code></sub><br /><br />
     <a href="https://github.com/NginxProxyManager/nginx-proxy-manager"><code>nginx-proxy-manager</code></a> &nbsp;·&nbsp;
     <a href="https://github.com/facebook/docusaurus"><code>docusaurus</code></a> &nbsp;·&nbsp;
